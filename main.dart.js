@@ -74433,7 +74433,7 @@ k=A.b([],t.fy)
 j=$.ag
 s.oz(new A.vX(new A.acU(this),r,!1,0.5625,B.E,i,i,i,i,h.x1.e,!0,!0,i,i,i,!1,i,"Close Bottom Sheet",new A.bN(B.bg,q),"Scrim",i,i,p,A.ar(t.f9),new A.b7(i,t.Ts),new A.b7(i,t.A),new A.GB(),i,0,new A.bw(new A.am(o,n),m),l,k,B.Jl,new A.bN(i,q),new A.bw(new A.am(j,n),m),new A.bw(new A.am(j,n),m),t.Fu))},
 J(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6=2852126720,a7=a4.ch,a8=A.c3(0,0,1)
-a7=A.aiU(0,A.al2(A.Fw("assets/images/manny-becerra-mMUo6jghVa8-unsplash.jpg",B.hA,a5,a5),B.a_,a8,a7))
+a7=A.aiU(0,A.al2(A.Fw("assets/images/space bg.jpg",B.hA,a5,a5),B.a_,a8,a7))
 a8=A.aiU(0,A.cW(a5,a5,B.q,new A.ct(a5,a5,a5,a5,a5,new A.kC(B.bI,B.ht,B.cr,A.b([new A.i(a6),new A.i(a6)],t.t_),a5,a5),B.ac),a5,a5,a5,a5,a5))
 s=A.b_(a5,50,a5)
 r=a4.XX()
@@ -74451,7 +74451,7 @@ h=A.cW(a5,A.eN(A.b([l,k,A.cW(a5,new A.vC(new A.a6_(!0,!0,!0,j,i),a5,B.at,!1,a5,a
 i=A.b_(a5,30,a5)
 j=a4.XW()
 k=A.b_(a5,30,a5)
-p=A.cW(a5,A.eN(A.b([A.bZ("Connect with Me:",a5,a5,a5,A.bz(a5,a5,B.e7,a5,a5,a5,a5,a5,a5,a5,a5,24,a5,a5,B.aL,a5,a5,!0,a5,a5,a5,a5,a5,A.b([new A.fd(A.L(255,217,217,131),new A.f(0,0),10)],p),a5,a5),a5,a5),A.b_(a5,20,a5),A.eN(A.b([a4.z0("GitHub","https://github.com/sanvviratthore"),A.b_(a5,10,a5),a4.z0("LinkedIn","https://www.linkedin.com/in/sanvi-rathore-75611a289"),A.b_(a5,10,a5),a4.z0("LeetCode","https://leetcode.com/u/sanvviratthore/"),A.b_(a5,20,a5),a4.XV("https://drive.google.com/uc?export=download&id=1Z6DyNEiAZP3tjZnZ1Vp3bPe2J0A1K1Pm")],o),B.ad,B.ae,B.ap)],o),B.ad,B.ae,B.ap),B.q,a5,a5,a4.ax,a5,a5,a5)
+p=A.cW(a5,A.eN(A.b([A.bZ("Connect with Me:",a5,a5,a5,A.bz(a5,a5,B.e7,a5,a5,a5,a5,a5,a5,a5,a5,24,a5,a5,B.aL,a5,a5,!0,a5,a5,a5,a5,a5,A.b([new A.fd(A.L(255,217,217,131),new A.f(0,0),10)],p),a5,a5),a5,a5),A.b_(a5,20,a5),A.eN(A.b([a4.z0("GitHub","https://github.com/sanvviratthore"),A.b_(a5,10,a5),a4.z0("LinkedIn","https://www.linkedin.com/in/sanvi-rathore-75611a289"),A.b_(a5,10,a5),a4.z0("Codolio","https://codolio.com/profile/Sanvi"),A.b_(a5,20,a5),a4.XV("https://drive.google.com/uc?export=download&id=1Z6DyNEiAZP3tjZnZ1Vp3bPe2J0A1K1Pm")],o),B.ad,B.ae,B.ap)],o),B.ad,B.ae,B.ap),B.q,a5,a5,a4.ax,a5,a5,a5)
 l=A.b_(a5,30,a5)
 g=a4.XU()
 f=A.b_(a5,20,a5)
